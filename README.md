@@ -18,6 +18,10 @@ Currently looking for my **first professional opportunity in software developmen
 ---
 
 ## 🛠️ Tech Stack
+**Backend:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
 
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
@@ -25,11 +29,6 @@ Currently looking for my **first professional opportunity in software developmen
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  
-
-**Backend:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
 
 **Tools & Other:**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
