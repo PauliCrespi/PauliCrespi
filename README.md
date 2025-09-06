@@ -5,7 +5,7 @@
 📍 Montevideo, Uruguay  
 📧 [crespipauli@gmail.com](mailto:crespipauli@gmail.com)  
 📱 +598 95 980 025  
-💼 [LinkedIn]([https://www.linkedin.com/in/paulinacrespi](https://www.linkedin.com/in/paulina-crespi-abb720230/)) • 🐙 [GitLab](https://gitlab.com/paulinacrespi)  
+💼 [LinkedIn](https://www.linkedin.com/in/paulina-crespi-abb720230/) • 🐙 [GitLab](https://gitlab.com/paulinacrespi)  
 
 ---
 
