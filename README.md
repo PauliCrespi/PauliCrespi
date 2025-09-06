@@ -5,13 +5,13 @@
 📍 Montevideo, Uruguay  
 📧 [crespipauli@gmail.com](mailto:crespipauli@gmail.com)  
 📱 +598 95 980 025  
-💼 [LinkedIn](https://www.linkedin.com/in/paulina-crespi-abb720230/) • 🐙 [GitLab](https://gitlab.com/paulinacrespi)  
+💼 [LinkedIn](https://www.linkedin.com/in/paulina-crespi-abb720230/) 
 
 ---
 
 ## ✨ About Me
 
-I'm a **Computer Engineering student** (UDELAR) and **Holberton School alumna**, highly motivated to keep expanding my knowledge in IT.  
+I'm a **Computer Engineering student** (UDELAR) and **Holberton School alumni**, highly motivated to keep expanding my knowledge in IT.  
 I enjoy challenges, teamwork, and the thrill of achieving goals.  
 Currently looking for my **first professional opportunity in software development**.  
 
