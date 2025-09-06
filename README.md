@@ -34,6 +34,8 @@ Currently looking for my **first professional opportunity in software developmen
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)  
 
+> 🛠️ *Check my pinned repositories below for code samples!*  
+
 ---
 
 ## 📚 Education
@@ -50,17 +52,6 @@ Currently looking for my **first professional opportunity in software developmen
 - 🇬🇧 English – Native (IGCSE & International Baccalaureate)  
 - 🇵🇹 Portuguese – Intermediate  
   
-
----
-
-## 📌 Featured Projects
-
-🔹 **Flutter Mobile App** – Task manager with state management & API integration.  
-🔹 **Java Web Service** – Backend with REST API and database persistence.  
-🔹 **Python Scripts** – Automation & problem-solving exercises.  
-
-> 🛠️ *Check my pinned repositories below for code samples!*  
-
 ---
 
 ⭐️ From [@PauliCrespi](https://gitlab.com/paulinacrespi)
