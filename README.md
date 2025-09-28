@@ -49,8 +49,8 @@ Currently looking for my **first professional opportunity in software developmen
 ## 🌍 Languages
 
 - 🇪🇸 Spanish – Native  
-- 🇬🇧 English – Native (IGCSE & International Baccalaureate)  
-- 🇧🇷 Portuguese – Intermediate  
+- 🇬🇧 English – Advanced (IGCSE & International Baccalaureate)  
+- 🇧🇷 Portuguese – Basic  
   
 ---
 
